@@ -1,0 +1,6 @@
+{
+    "products": [
+        {"id":"1", "nome":"Caneta Azu"},
+        {"id":"21", "nome":"Azu Caneta"}
+    ]
+}
